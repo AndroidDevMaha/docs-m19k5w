@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7a1aka.indocuan-pro.site/sitemap.xml
